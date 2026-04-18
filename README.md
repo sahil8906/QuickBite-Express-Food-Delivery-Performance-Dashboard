@@ -98,4 +98,6 @@ High-risk cities need targeted recovery strategies
 Improving SLA compliance can directly reduce churn
 
 **Link-** https://app.powerbi.com/view?r=eyJrIjoiMDA4YzA5YmEtNjdiYS00OTU2LTk5OWItYjI2ZmRkMTg0YWNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 **📸  Screenshots / Demos**
+https://github.com/sahil8906/QuickBite-Express-Food-Delivery-Performance-Dashboard/blob/main/01.png
