@@ -96,4 +96,6 @@ Operations failure → Customer dissatisfaction → Revenue loss
 Delivery performance is a critical driver of retention
 High-risk cities need targeted recovery strategies
 Improving SLA compliance can directly reduce churn
-**📸 6. Screenshots / Demos**
+
+**Link-** https://app.powerbi.com/view?r=eyJrIjoiMDA4YzA5YmEtNjdiYS00OTU2LTk5OWItYjI2ZmRkMTg0YWNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+**📸  Screenshots / Demos**
